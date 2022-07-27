@@ -5,12 +5,12 @@ Real estate purchases, especially for first time home buyers, can be a highly em
 ## Solution Overview 
 The purpose of this project is to build an application that enables home buyers to make more educated decisions on real estate.   Our MVP will include the following features to start: 
 
-- Fetches and displays historical housing prices by county in America from 2018-2022.   This will allow users to see trends, such as which counties are gaining or losing value in different formats, such as in a datagrid or a map.
-- Provides predictive analytics for future real estate prices.   For example, a user will be able to execute a Monte Carlo simulations against one or more counties to see which real estate may be a better purchase.  
+- Fetch and display historical housing prices by county in America from 2018-2022.   This allows users to see trends, such as which counties are gaining or losing value.   The data will be displayed in different views, such as in a datagrid, line plot, barchart or a map.
+- Provides predictive analytics for future real estate prices.   This allows users to execute simulations, such as the Monte Carlo simulation, to determine which county is a better real estate purchase.
 
 In addition, this project will:  
 - Incorporate agile best practices for managing communications, defining user stories and iterating through feature development
-- Provide viability of use of our technology stack in building a fintech web application that can be extended towards other problems
+- Provide viability of use of a technology stack in building a fintech web application 
 
 ## Project Management 
 - Communications: Slack
